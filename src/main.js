@@ -31,7 +31,7 @@ fetch(API_URL)
       // Crie um elemento "img" e, atribua a class como "card-img-top";
       // Não se esqueça que sua imagem precisa ser referenciada!
       image = document.createElement("img");
-      image.className = "card-img-top img";
+      image.className = "card-img-top img-fluid";
       image.src = photo;
 
       // Legal! Agora, já podemos começar a construir o "corpo" do card. Bora lá!
