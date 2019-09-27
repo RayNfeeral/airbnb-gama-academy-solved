@@ -25,7 +25,7 @@ fetch(API_URL)
 
       // Boa! Agora, precisamos criar a "div" do card a ser exibido. Ao criar, atribua a class "card mb-4 box-shadow".
       card = document.createElement("div");
-      div.className = "card mb-4 box-shadow";
+      card.className = "card mb-4 box-shadow";
 
       // Humm... Agora que já temos o card, que tal começarmos a popular as informações?
       // Crie um elemento "img" e, atribua a class como "card-img-top";
