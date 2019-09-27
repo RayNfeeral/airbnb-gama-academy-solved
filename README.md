@@ -27,3 +27,7 @@ Onde, os dados dos cards deverão ser exibidos através de uma requisição em A
 
 ## Agradecimentos
 @douglasmaiabr, ex-aluno do Gama Experience que mantém disponibilizado a API para consultarmos. ;)
+
+## Minhas Notas
+
+O resultado final do exercício pode ser visto em https://raynfeeral.github.io/airbnb-gama-academy-solved/dist
